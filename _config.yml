@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/bas-van-aalst-609043290/"
+  linkedin         : "bas-van-aalst-609043290/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -265,7 +265,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: portfolio
