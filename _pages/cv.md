@@ -19,14 +19,14 @@ redirect_from:
 **2025 - now**: ML Intern at Growy
   * What does Growy do?
   * What do I do?
-\
+
 **2019 - now**: Web Development Committees at SKC & AEGEE
   * SKC:
   * AEGEE:
-\
+
 **2019 - 2024**: Employee Operations 'Reis door de Mens' & Catering at CORPUS 
   * Duties included: 
-\
+
 **2015 - 2018**: Employee 'Verkoopklaar' at AH Koornneef Westland
   * Duties included: 
 
