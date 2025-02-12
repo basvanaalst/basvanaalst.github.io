@@ -13,28 +13,25 @@ Education
 ======
 * BSc Informatica (NL), Leiden University, 2023
 * Ongoing: MSc Computer Science: Data Science (EN)
-
+\
 Work Experience
 ======
-* **2025 - now**: ML Intern at Growy
+**2025 - now**: ML Intern at Growy
   * What does Growy do?
   * What do I do?
-
-* **2019 - now**: Web Development Committees at SKC & AEGEE
-  * SKC
-  * AEGEE
-
-* **2019 - 2024**: Employee Operations 'Reis door de Mens' & Catering at CORPUS 
+\
+**2019 - now**: Web Development Committees at SKC & AEGEE
+  * SKC:
+  * AEGEE:
+\
+**2019 - 2024**: Employee Operations 'Reis door de Mens' & Catering at CORPUS 
   * Duties included: 
-
-* **2015 - 2018**: Employee 'Verkoopklaar' at AH Koornneef Westland
+\
+**2015 - 2018**: Employee 'Verkoopklaar' at AH Koornneef Westland
   * Duties included: 
-  
+\
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Fluent Dutch and Professional Working Proficiency English
+* Programming Languages: Python, C++/C#, SQL, TypeScript and PHP
+* Web Development: Wordpress, Angular, HTML and CSS
