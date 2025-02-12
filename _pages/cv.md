@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 * BSc Informatica (NL), Leiden University, 2023
 * Ongoing: MSc Computer Science: Data Science (EN)
 \
-Work Experience
-======
+# Work Experience
+
 **2025 - now**: ML Intern at Growy
   * What does Growy do?
   * What do I do?
@@ -30,8 +30,8 @@ Work Experience
 **2015 - 2018**: Employee 'Verkoopklaar' at AH Koornneef Westland
   * Duties included: 
 \
-Skills
-======
+# Skills
+
 * Languages: Fluent Dutch and Professional Working Proficiency English
 * Programming Languages: Python, C++/C#, SQL, TypeScript and PHP
 * Web Development: Wordpress, Angular, HTML and CSS
