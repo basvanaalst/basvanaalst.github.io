@@ -13,7 +13,7 @@ redirect_from:
 
 * BSc Informatica (NL), Leiden University, 2023
 * Ongoing: MSc Computer Science: Data Science (EN)
-\
+
 # Work Experience
 
 **2025 - now**: ML Intern at Growy
@@ -29,7 +29,7 @@ redirect_from:
 \
 **2015 - 2018**: Employee 'Verkoopklaar' at AH Koornneef Westland
   * Duties included: 
-\
+
 # Skills
 
 * Languages: Fluent Dutch and Professional Working Proficiency English
